@@ -1,0 +1,9 @@
+{
+  "name": "Tweaked_Mines",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/Ragnohr10/Tweaked_Mines_Super_Battle_Golf/"
+  "description": "Tweaked landmines quantity in the inventory and distance detection",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2304"
+  ]
+}
